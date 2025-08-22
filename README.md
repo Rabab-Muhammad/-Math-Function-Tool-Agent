@@ -45,9 +45,10 @@ python main.py
 ## Math Tool Agent 🤖🧮
 
 <div>
-![ Math Tool Agent screenshots](https://github.com/Rabab-Muhammad/Math-Function-Tool-Agent/tree/main/screenshots)
+![ Math Tool Agent screenshots](https://github.com/Rabab-Muhammad/-Math-Function-Tool-Agent/tree/main/screenshots)
 
 </div>
+
 
 
 
