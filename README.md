@@ -26,7 +26,8 @@ A powerful AI-powered math agent that can perform various mathematical operation
 1. Run the application:
 ```bash
 python main.py
-```bash
+```
+
 
 2. The application will first run automated tests with sample questions:
 
@@ -40,6 +41,7 @@ python main.py
 3. After testing, you can ask your own math questions
 
 4. Type 'exit' or 'quit' to end the session.
+
 
 
 
