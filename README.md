@@ -42,6 +42,13 @@ python main.py
 
 4. Type 'exit' or 'quit' to end the session.
 
+## Math Tool Agent 🤖🧮
+
+<div>
+![ Math Tool Agent screenshots](https://github.com/Rabab-Muhammad/Math-Function-Tool-Agent/tree/main/screenshots)
+
+</div>
+
 
 
 
